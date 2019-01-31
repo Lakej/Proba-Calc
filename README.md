@@ -28,7 +28,7 @@ _Una vez descargado el software pre-requerido podras probar el programa, sigue l
 _Clona esta repositorio usando el comando_
 
 ```
-git clone https://github.com/Lakej/Proba-Calc
+git clone https://github.com/Lakej/Proba-Calc.git
 ```
 
 _Abre el IDE ya con el SDK y el JDK instalados y abre el proyecto desde la direccion donde lo clonaste_
